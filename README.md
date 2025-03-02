@@ -1,17 +1,26 @@
-![Cover Image](https://i.pinimg.com/1200x/90/03/87/900387abdc1854f66046b50cc5fcfdd9.jpg)
-### Hello, I'm Prabhjot Singh 👋🏻
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&size=15&weight=900&duration=2000&pause=300&color=2EB0D7&background=E302FF00&random=true&width=435&height=40&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Software+Engineer+(Entry-Level);WordPress+Developer+(Junior))](https://git.io/typing-svg)
+![Cover Image](https://i.pinimg.com/1200x/3c/d1/01/3cd1012026378cfc278a489c66a55210.jpg)
+
+# Hello, I'm Prabhjot Singh 👋🏻 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&size=16&weight=900&duration=2000&pause=300&color=9b0e2f&background=E302FF00&random=true&width=435&height=40&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Software+Engineer+(Entry-Level);WordPress+Developer+(Junior))](https://git.io/typing-svg)
+
+## About Me
+
+<table>
+  <th> 
+
+![Cover Image](https://i.pinimg.com/1200x/42/e1/8f/42e18fcd2b236e57c0b8517bea6bd979.jpg)   
+    
+  </th>
+  <th>  
+    
+  >I'm a **Full-Stack Developer** who loves turning ideas into fully-functional web applications. Passionate about both front-end and back-end development, I thrive on creating seamless, interactive user experiences.
+  </th>
+  
+</table>
 
 
----
-
-### 🌟 About Me
-
-I'm a **Full-Stack Developer** who loves turning ideas into fully-functional web applications. Passionate about both front-end and back-end development, I thrive on creating seamless, interactive user experiences.
-
----
-
-### 🔧 Technologies & Tools
+## Technologies & Tools
 
 | **Technology**          | **Icon**                     |
 | ----------------------- | ---------------------------- |
