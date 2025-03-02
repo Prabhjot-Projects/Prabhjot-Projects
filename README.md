@@ -6,7 +6,7 @@
 
 
 ## About Me 😇
->I'm a **Full-Stack Developer** who loves turning ideas into fully-functional web applications. Passionate about both front-end and back-end development, I thrive on creating seamless, interactive user experiences.
+>I'm a **Full-Stack Developer** who loves turning ideas into fully functional web applications. Passionate about front-end and back-end development, I thrive on creating seamless, interactive user experiences.
 <br>
 
 ## Technologies & Tools 💻
@@ -30,7 +30,7 @@
 ## Connect With Me 🌐
 
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabdot@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-work/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhjot-Projects)
 
-***Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or learn more.***
+***Thanks for visiting my profile! Feel free to contact me if you'd like to collaborate or learn more.***
