@@ -1,56 +1,36 @@
-![Cover Image](https://i.pinimg.com/1200x/3c/d1/01/3cd1012026378cfc278a489c66a55210.jpg)
+![Cover Image](https://i.pinimg.com/1200x/3c/d1/01/3cd1012026378cfc278a489c66a55210.jpg) 
+![](https://komarev.com/ghpvc/?username=Prabhjot-Projects&color=9b0e2f&style=for-the-badge)
 
 # Hello, I'm Prabhjot Singh 👋🏻 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&size=16&weight=900&duration=2000&pause=300&color=9b0e2f&background=E302FF00&random=true&width=435&height=40&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Software+Engineer+(Entry-Level);WordPress+Developer+(Junior))](https://git.io/typing-svg)
-
-## About Me
-
-<table>
-  <th> 
-
-![Cover Image](https://i.pinimg.com/1200x/42/e1/8f/42e18fcd2b236e57c0b8517bea6bd979.jpg)   
-    
-  </th>
-  <th>  
-    
-  >I'm a **Full-Stack Developer** who loves turning ideas into fully-functional web applications. Passionate about both front-end and back-end development, I thrive on creating seamless, interactive user experiences.
-  </th>
-  
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&size=24&weight=900&duration=2000&pause=300&color=9b0e2f&background=E302FF00&random=true&width=435&height=40&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Software+Engineer+(Entry-Level);WordPress+Developer+(Junior))](https://git.io/typing-svg) 
 
 
-## Technologies & Tools
+## About Me 😇
+>I'm a **Full-Stack Developer** who loves turning ideas into fully-functional web applications. Passionate about both front-end and back-end development, I thrive on creating seamless, interactive user experiences.
+<br>
 
-| **Technology**          | **Icon**                     |
-| ----------------------- | ---------------------------- |
-| **Frontend**            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Frameworks**          | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Backend**             | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCB2F?style=for-the-badge&logo=firebase&logoColor=black) |
-| **Version Control**     | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+## Technologies & Tools 💻
+| **Category**           | **Technologies**                                                                 |
+|------------------------|---------------------------------------------------------------------------------|
+| **Frontend**           | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) |
+| **Backend**            | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://skillicons.dev/icons?i=oracle) ![.NET](https://skillicons.dev/icons?i=dotnet) ![REST API](https://skillicons.dev/icons?i=postman) |
+| **Languages**          | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![Dart](https://skillicons.dev/icons?i=dart) ![JavaScript](https://skillicons.dev/icons?i=js) ![JSON](https://skillicons.dev/icons?i=json) |
+| **DevOps & Tools**     | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) |
+| **IDEs & Code Editors**| ![VS Code](https://skillicons.dev/icons?i=vscode) ![Pycharm](https://skillicons.dev/icons?i=pycharm) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) |
+| **Package Managers**   | ![NPM](https://skillicons.dev/icons?i=npm) ![Yarn](https://skillicons.dev/icons?i=yarn) |
+| **Other Skills**       | ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) |
+<br>
 
----
+## Current Focus 🎯
+- **Securing an internship** for a<mark> **co-op position** </mark>.
+- **Learning best practices** for efficient web development.
+- **Strengthening DSA skills** and mastering basic programming concepts.
+<br>
 
-### 🎯 Current Focus
+## Connect With Me 🌐
 
-- Building **Mucon** (Music Concert Booking Website)
-- Learning **WordPress** & **.Net Framework**
-- Strengthening **DSA** skills
+[![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabdot@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhjot-Projects)
 
----
-
-### 🌐 Reach Out
-
-[![Email](https://img.shields.io/badge/Email-prabdot%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabdot@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabhjot%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-singh)  
-[![GitHub](https://img.shields.io/badge/GitHub-Prabhjot%20Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhjot-Projects)
-
----
-
-### 📊 GitHub Stats
-
-![Prabhjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhjot-Projects&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or learn more.
+***Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or learn more.***
